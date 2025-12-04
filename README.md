@@ -40,7 +40,7 @@ The dataset includes parameters such as:
     ```
 
 ## 📊 Live Demo
-Check out the live application here: []
+Check out the live application here: [https://student-mental-health-dashboard-dm6ppquoktb9xf7dwh8j6f.streamlit.app/]
 
 ---
 *Developed by [Asif Ali]*
